@@ -1,0 +1,18 @@
+1. Replaced Russian month names with English, standartized date format.
+2. Formatted numbers identically (find and replace->" " with "" and made sure that all numbers are with 2 decimals separated with comma).
+3. Categorized transactions on deposits and withdrawals.
+4. Created separate sheet called "End of day balance for each acc". Extracted each account from the original list and its balance at the end of specific date.
+5. Built pivot table with options to filter deposit/ withdrawals by date and type.
+6. Added adjustable slicer and timeline.
+
+Techniques Used:
+
+LOOKUP, XLOOKUP and VLOOKUP
+
+IF, COUNTIFS
+
+Conditional Formatting
+
+Pivot Tables & Charts
+
+Timeline and Slicer
